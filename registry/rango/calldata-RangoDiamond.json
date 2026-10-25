@@ -43,10 +43,6 @@
         {
           "chainId": 42161,
           "address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
-        },
-        {
-          "chainId": 1313161554,
-          "address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
         }
       ]
     }
